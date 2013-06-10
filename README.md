@@ -1,4 +1,3 @@
-turorialJava2D
-==============
+# Jogo com a API Java2D
 
-Tutorial sobre Java 2D
+1 - Desenhando com Java2D
